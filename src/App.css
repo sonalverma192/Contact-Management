@@ -388,9 +388,15 @@ select {
     padding: 20px;
     border: none;
     height: 30px;
-    background-color: rgb(110, 138, 150);
+    background-color: rgb(136, 143, 146);
     font-size: 17px;
     color: white;
+}
+
+.error-text
+{
+    color:red;
+    font-size:12px;
 }
 
 .home-wrapper{
